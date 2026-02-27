@@ -3156,5 +3156,119 @@ zombiezen.com/go/bass	https://github.com/zombiezen/bass
 
 zombiezen.com/go/capnproto2	https://github.com/capnproto/go-capnproto2
 
+gopkg.in/telebot.v4	https://github.com/go-telebot/telebot
 
+go.elastic.co/fastjson	https://github.com/elastic/go-fastjson
+
+go.uber.org/yarpc	https://github.com/yarpc/yarpc-go
+
+go.yaml.in/yaml/v4	https://github.com/yaml/go-yaml
+
+buf.build/go/protoyaml	https://github.com/bufbuild/protoyaml-go
+
+google.golang.org/adk/model	https://github.com/google/adk-go
+
+mvdan.cc/sh/v3	https://github.com/mvdan/sh
+
+go.temporal.io/sdk/converter	https://github.com/temporalio/sdk-go
+
+go.opentelemetry.io/auto/sdk	https://github.com/open-telemetry/opentelemetry-go-instrumentation
+
+gorm.io/driver/postgres	https://github.com/go-gorm/postgres
+
+go.opentelemetry.io/contrib	https://github.com/open-telemetry/opentelemetry-go-contrib
+
+go.etcd.io/etcd/v3	https://github.com/etcd-io/etcd
+
+gortc.io/ice	https://github.com/gortc/ice
+
+software.sslmate.com/src/go-pkcs12	https://github.com/SSLMate/go-pkcs12
+
+connectrpc.com/connect	https://github.com/connectrpc/connect-go
+
+gopkg.in/telebot.v4	https://github.com/go-telebot/telebot
+
+go.uber.org/dig	https://github.com/uber-go/dig
+
+go.temporal.io/sdk/worker	https://github.com/temporalio/sdk-go
+
+gotest.tools/gotestsum	https://github.com/gotestyourself/gotestsum
+
+golang.ngrok.com/ngrok/v2	https://github.com/ngrok/ngrok-go
+
+gorm.io/driver/mysql	https://github.com/go-gorm/mysql
+
+go.elastic.co/fastjson	https://github.com/elastic/go-fastjson
+
+gorm.io/driver/sqlite	https://github.com/go-gorm/sqlite
+
+gopkg.in/gemnasium/logrus-airbrake-hook.v2	https://github.com/gemnasium/logrus-airbrake-hook
+
+go.step.sm/crypto/x509util	https://github.com/smallstep/crypto
+
+fortio.org/dflag/endpoint	github.com/fortio/dflag
+
+maragu.dev/is	github.com/maragudk/is
+
+mvdan.cc/interfacer	github.com/mvdan/interfacer 
+
+go.temporal.io/sdk/workflow	https://github.com/temporalio/sdk-go
+
+go.yaml.in/yaml/v2	https://github.com/yaml/go-yaml
+
+charm.land/bubbles/v2	https://github.com/charmbracelet/bubbles
+
+google.golang.org/api/container	https://github.com/googleapis/google-api-go-client
+
+k8s.io/api/settings	https://github.com/kubernetes/api
+
+go.yaml.in/yaml/v4	https://github.com/yaml/go-yaml
+
+goji.io	https://github.com/goji/goji
+
+go.uber.org/fx	https://github.com/uber-go/fx
+
+go.mozilla.org/mozlog	https://github.com/mozilla-services/go-mozlog
+
+go.uber.org/automaxprocs	https://github.com/uber-go/automaxprocs
+
+go.opentelemetry.io/contrib	https://github.com/open-telemetry/opentelemetry-go-contrib
+
+pgregory.net/rapid	https://github.com/flyingmutant/rapid
+
+go.etcd.io/etcd/wal	https://github.com/etcd-io/etcd
+
+resty.dev/v3	https://github.com/go-resty/resty/tree/v3
+
+go.temporal.io/sdk/activity	https://github.com/temporalio/sdk-go
+
+gocloud.dev/aws/rds	https://github.com/google/go-cloud
+
+cloudeng.io/webapp	https://github.com/cloudengio/go.webapp
+
+go.etcd.io/etcd/clientv3	https://github.com/etcd-io/etcd
+
+go.uber.org/automaxprocs/maxprocs	https://github.com/uber-go/automaxprocs
+
+go.temporal.io/sdk/temporal	https://github.com/temporalio/sdk-go
+
+contrib.go.opencensus.io/exporter/aws	https://github.com/census-ecosystem/opencensus-go-exporter-aws
+
+go.etcd.io/etcd/v3	https://github.com/etcd-io/etcd
+
+gocloud.dev/runtimevar	https://github.com/google/go-cloud
+
+mvdan.cc/sh/v3	https://github.com/mvdan/sh
+
+firebase.google.com/go/v4	https://github.com/firebase/firebase-admin-go
+
+software.sslmate.com/src/go-pkcs12	https://github.com/SSLMate/go-pkcs12
+
+fyne.io/fyne/v2	https://github.com/fyne-io/fyne
+
+gocloud.dev/gcp/cloudsql	https://github.com/google/go-cloud
+
+k8s.io/klog/v2	https://github.com/kubernetes/klog
+
+go.mongodb.org/mongo-driver/v2	https://github.com/mongodb/mongo-go-driver
 
