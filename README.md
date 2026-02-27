@@ -12,7 +12,7 @@ go库包真实地址收集
 
 
 
-引用报名	实际源码地址
+引用地址	实际源码地址
 
 gopkg.in/telebot.v4	https://github.com/go-telebot/telebot
 
